@@ -1,0 +1,84 @@
+html {
+    background-image: url("immagini/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Open+Sans", sans-serif;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+h4{
+    margin-top: 10px;
+    margin-bottom: 0;
+    color: white;
+}
+body {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 1000px;
+    height: 800px;
+    background-color: rgba(0, 0, 0, 0.50);
+    border-radius: 20px;
+}
+
+#logo{
+    margin-top: 80px
+}
+header {
+    margin-top: 50px;
+    padding: 6px;
+    text-align: center;
+}
+
+nav {
+    margin: auto;
+    width: 85%;
+    border: solid none 2px;
+    background-color: rgb(21, 241, 21);
+    text-align: center;
+    padding: 10px;
+}
+
+section {
+    margin-top: 5px;
+    margin-left: 70px;
+}
+
+.monopattini {
+    display: inline-block;
+    color: white;
+}
+
+
+.indirizzo {
+    margin-top: 5px;
+    padding: 0px;
+    color: white;  
+}
+
+#carica1{
+    margin-top: 5px;
+    background-color: rgb(240, 169, 76);
+    border-radius: 5px;
+    width: 300px;
+    height: 30px;
+}
+
+#carica2{
+    margin-top: 5px;
+    background-color: rgb(36, 218, 0);
+    border-radius: 5px;
+    width: 550px;
+    height: 30px;
+}
+
+#carica3{
+    margin-top: 5px;
+    background-color: rgb(206, 63, 58);
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+}
